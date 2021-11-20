@@ -5,6 +5,6 @@ int main(){
     int a=8;
     int b = 7;
 
-    cout<<a+b<<endl;
+    cout<<"Sum of two digit "<<a+b<<endl;
     return 0;
 }
